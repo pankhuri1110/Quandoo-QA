@@ -12,7 +12,7 @@ Pre-requisite to execute the test cases:
 3. Firefox should be installed
 
 Steps to execute the test cases : 
-1. Clone the repo from GitHub using command : git clone <gitrepo>
+1. Clone the repo from GitHub using command : git clone https://github.com/pankhuri1110/Quandoo-QA.git
 2. Cd to Quandoo-QA directory
 3. Execute command : mvn test
 
